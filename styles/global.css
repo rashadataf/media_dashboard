@@ -1,0 +1,9 @@
+.Wrapper {
+  box-shadow: 0px 0px 1px black;
+  margin-bottom: 1rem;
+}
+
+.Editor {
+  padding: 0 0.3rem;
+  min-height: 200px;
+}
